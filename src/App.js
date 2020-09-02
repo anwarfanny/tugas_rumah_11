@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './component/form/input.js';
+import './component/tabel/Tabel.js';
 
 function App() {
   return (
